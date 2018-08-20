@@ -1,32 +1,117 @@
-24.39.144.162|super|super|United States(US)
-216.163.88.24|support|support|United States(US)
-67.215.244.206|support|support|United States(US)
-64.61.63.80|mysql|mysql|United States(US)
-67.215.245.14|support|support|United States(US)
-172.103.39.84|admin|admin|United States(US)
-184.103.154.124|support|support|United States(US)
-70.35.195.87|test|1234567|United States(US)
-75.172.47.5|admin|admin|United States(US)
-64.77.244.139|tester|tester|United States(US)
-66.119.59.223|ftpuser|asteriskftp|United States(US)
-66.161.201.239|root|@#$%^&*!()|United States(US)
-198.12.151.174|test|123456|United States(US)
-24.99.206.28|operator|operator|United States(US)
-67.215.251.154|support|support|United States(US)
-208.100.175.229|ubnt|ubnt|United States(US)
-207.237.202.10|nuucp|nuucp|United States(US)
-67.215.243.2|support|support|United States(US)
-47.58.167.141|root|root|United States(US)
-71.50.194.140|support|support|United States(US)
-67.215.255.154|support|support|United States(US)
-74.254.131.37|temp1|temp1|United States(US)
-24.151.30.154|support|support|United States(US)
-168.103.78.64|support|support|United States(US)
-67.215.240.122|support|support|United States(US)
-97.91.153.153|tc|nosoup4u|United States(US)
-104.15.174.213|RPM|RPM|United States(US)
-47.58.92.55|root|root|United States(US)
-198.46.141.100|ftpuser|test123|United States(US)
-67.215.238.42|support|support|United States(US)
-69.12.84.50|support|support|United States(US)
-192.169.197.200|test|123456|United States(US)
+180.255.19.111|ftp|ftp|Singapore(SG)||
+101.100.185.44|ubnt|ubnt|Singapore(SG)||
+171.207.120.213|user|user|Singapore(SG)||
+14.100.33.229|ftp|ftp|Singapore(SG)||
+180.255.13.217|root|root|Singapore(SG)||
+14.100.24.13|ftp|ftp|Singapore(SG)||
+119.234.14.135|ftp|ftp|Singapore(SG)||
+14.100.10.135|ftp|ftp|Singapore(SG)||
+14.100.37.49|ftp|ftp|Singapore(SG)||
+180.255.20.93|ftp|ftp|Singapore(SG)||
+103.224.165.201|ubnt|ubnt|Singapore(SG)||
+14.100.6.229|ftp|ftp|Singapore(SG)||
+180.255.0.189|ftp|ftp|Singapore(SG)||
+66.96.208.207|ubnt|ubnt|Singapore(SG)||
+158.140.138.252|ubnt|ubnt|Singapore(SG)||
+158.140.137.186|ubnt|ubnt|Singapore(SG)||
+182.23.149.163|admin|1234|Singapore(SG)||
+66.96.196.112|ubnt|ubnt|Singapore(SG)||
+14.100.4.81|ftp|ftp|Singapore(SG)||
+66.96.204.26|ubnt|ubnt|Singapore(SG)||
+180.255.18.206|ftp|ftp|Singapore(SG)||
+180.255.2.221|ftp|ftp|Singapore(SG)||
+14.100.20.51|root|root|Singapore(SG)||
+14.100.24.228|ftp|ftp|Singapore(SG)||
+14.100.16.201|ftp|ftp|Singapore(SG)||
+180.255.11.180|admin|admin|Singapore(SG)||
+14.100.26.204|ftp|ftp|Singapore(SG)||
+158.140.140.104|ubnt|ubnt|Singapore(SG)||
+14.100.13.220|root|root|Singapore(SG)||
+66.96.195.63|ubnt|ubnt|Singapore(SG)||
+158.140.138.111|ubnt|ubnt|Singapore(SG)||
+158.140.138.92|ubnt|ubnt|Singapore(SG)||
+158.140.137.39|ubnt|ubnt|Singapore(SG)||
+180.255.9.89|ftp|ftp|Singapore(SG)||
+119.234.13.190|root|root|Singapore(SG)||
+180.255.11.214|ftp|ftp|Singapore(SG)||
+14.100.2.108|ftp|ftp|Singapore(SG)||
+158.140.137.59|ubnt|ubnt|Singapore(SG)||
+119.234.3.241|ftp|ftp|Singapore(SG)||
+66.96.212.220|ftp|ftp|Singapore(SG)||
+158.140.133.113|ubnt|ubnt|Singapore(SG)||
+180.255.3.173|ftp|ftp|Singapore(SG)||
+66.96.211.238|ubnt|ubnt|Singapore(SG)||
+14.100.33.0|admin|admin|Singapore(SG)||
+14.100.31.141|ftp|ftp|Singapore(SG)||
+158.140.140.177|ubnt|ubnt|Singapore(SG)||
+180.255.4.181|ftp|ftp|Singapore(SG)||
+14.100.32.37|ftp|ftp|Singapore(SG)||
+158.140.138.220|ubnt|ubnt|Singapore(SG)||
+180.255.10.187|ftp|ftp|Singapore(SG)||
+158.140.140.81|ubnt|ubnt|Singapore(SG)||
+101.100.181.134|ubnt|ubnt|Singapore(SG)||
+14.100.11.201|ftp|ftp|Singapore(SG)||
+180.255.15.102|ftp|ftp|Singapore(SG)||
+14.100.19.184|admin|admin|Singapore(SG)||
+14.100.24.42|ftp|ftp|Singapore(SG)||
+14.100.23.247|ftp|ftp|Singapore(SG)||
+14.100.34.253|ftp|ftp|Singapore(SG)||
+66.96.211.233|ubnt|ubnt|Singapore(SG)||
+66.96.211.49|ubnt|ubnt|Singapore(SG)||
+14.100.19.49|ftp|ftp|Singapore(SG)||
+121.200.245.116|ftp|ftp|Singapore(SG)||
+14.100.28.179|ftp|ftp|Singapore(SG)||
+202.78.55.6|user|user|Singapore(SG)||
+202.80.162.125|monitor|monitor|Singapore(SG)||
+66.96.206.214|ubnt|ubnt|Singapore(SG)||
+14.100.22.17|ftp|ftp|Singapore(SG)||
+118.200.6.125|ftp|ftp|Singapore(SG)||
+14.100.17.112|ftp|ftp|Singapore(SG)||
+14.100.34.194|ftp|ftp|Singapore(SG)||
+158.140.140.18|ubnt|ubnt|Singapore(SG)||
+158.140.146.17|ubnt|ubnt|Singapore(SG)||
+119.234.14.154|admin|admin|Singapore(SG)||
+14.100.35.207|ftp|ftp|Singapore(SG)||
+180.255.2.228|ftp|ftp|Singapore(SG)||
+14.100.32.238|ftp|ftp|Singapore(SG)||
+14.100.18.210|ftp|ftp|Singapore(SG)||
+158.140.130.69|ubnt|ubnt|Singapore(SG)||
+14.100.21.164|ftp|ftp|Singapore(SG)||
+180.255.19.250|ftp|ftp|Singapore(SG)||
+158.140.140.207|ubnt|ubnt|Singapore(SG)||
+180.255.9.210|ftp|ftp|Singapore(SG)||
+119.234.7.225|ftp|ftp|Singapore(SG)||
+180.255.2.69|ftp|ftp|Singapore(SG)||
+150.95.27.59|ftpuser|ftpuser|Singapore(SG)||
+158.140.138.100|ubnt|ubnt|Singapore(SG)||
+14.100.31.96|ftp|ftp|Singapore(SG)||
+101.100.169.182|ubnt|ubnt|Singapore(SG)||
+158.140.130.102|ubnt|ubnt|Singapore(SG)||
+158.140.138.187|ubnt|ubnt|Singapore(SG)||
+14.100.1.133|ftp|ftp|Singapore(SG)||
+14.100.4.50|ftp|ftp|Singapore(SG)||
+14.100.4.98|ftp|ftp|Singapore(SG)||
+61.8.225.226|root|p@ssw0rd|Singapore(SG)||
+158.140.138.76|ubnt|ubnt|Singapore(SG)||
+14.100.15.64|user|user|Singapore(SG)||
+188.166.224.9|admin|admin|Singapore(SG)||
+118.201.240.23|ubnt|ubnt|Singapore(SG)||
+180.255.5.123|user|user|Singapore(SG)||
+158.140.137.185|ubnt|ubnt|Singapore(SG)||
+14.100.22.26|ftp|ftp|Singapore(SG)||
+14.100.7.123|ftp|ftp|Singapore(SG)||
+14.100.30.121|ftp|ftp|Singapore(SG)||
+158.140.138.86|ubnt|ubnt|Singapore(SG)||
+180.255.8.236|root|root|Singapore(SG)||
+61.13.16.9|ftp|ftp|Singapore(SG)||
+180.255.14.118|ftp|ftp|Singapore(SG)||
+61.8.213.116|ubnt|ubnt|Singapore(SG)||
+119.234.9.227|ftp|ftp|Singapore(SG)||
+180.255.19.185|ftp|ftp|Singapore(SG)||
+158.140.140.216|ubnt|ubnt|Singapore(SG)||
+158.140.138.60|ubnt|ubnt|Singapore(SG)||
+101.100.177.165|ubnt|ubnt|Singapore(SG)||
+180.255.11.40|ftp|ftp|Singapore(SG)||
+202.55.67.5|ftp|ftp|Singapore(SG)||
+101.100.171.35|ftp|ftp|Singapore(SG)||
+14.100.26.137|root|root|Singapore(SG)||
