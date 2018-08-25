@@ -1,21 +1,19 @@
-70.151.32.230|admin|default|United States-US
-74.213.206.69|guest|guest|United States-US
-66.96.204.164|ubnt|ubnt|United States-US
-72.43.222.34|admin|1234|United States-US
-50.196.44.169|test|test|United States-US
-71.251.126.28|installer|installer|United States-US
-99.196.106.71|admin|admin|United States-US
-65.152.237.149|admin|123456|United States-US
-173.95.56.34|admin|default|United States-US
-68.169.150.148|admin|default|United States-US
-69.36.94.135|tom|tom|United States-US
-192.3.239.193|testuser|testuser|United States-US
-24.159.131.226|root|@#$%^&*!()|United States-US
-158.140.181.193|admin|123456|United States-US
-104.254.68.7|test|test|United States-US
-12.23.46.233|super|super|United States-US
-166.130.8.111|ftp|ftp|United States-US
-166.130.148.41|ftp|ftp|United States-US
-50.246.4.189|test|123456|United States-US
-159.192.241.22|root|admin|United States-US
-72.80.26.149|testuser|testuser|United States-US
+103.224.166.211|ubnt|ubnt|Singapore (SG)|
+103.224.166.219|ubnt|ubnt|Singapore (SG)|
+103.224.167.12|ubnt|ubnt|Singapore (SG)|
+216.134.192.118|incoming|incoming|United States (US)
+198.46.141.98|ftpuser|test123|United States (US)
+50.246.4.189|test|123456|United States (US)
+182.223.115.219|admin|admin|Korea, Republic of (KR)|
+104.224.114.69|root|admin|CA
+222.12.35.78|admin|password|Japan (JP)
+122.211.138.172|test|test|Japan (JP)
+118.241.253.208|user1|user1|Japan (JP)
+119.173.100.163|uucp|admin|Japan (JP)
+153.122.52.22|test|123456789|Japan (JP)
+123.48.141.149|admin|password|Japan (JP)
+210.227.112.122|sysadmin|PASS|Japan (JP)
+122.220.44.76|sysadmin|PASS|Japan (JP)
+163.44.197.2|admin|admin|Japan (JP)
+222.229.112.168|uucp|admin|Japan (JP)
+118.163.135.18|user|user|Taiwan (TW)
