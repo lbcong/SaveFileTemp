@@ -1,5 +1,6 @@
+root|root
+user|user
 admin|admin
-admin|password
-root|admin
-support|support
-ubnt|ubnt
+root|synopass
+guest|guest
+root|alpine
